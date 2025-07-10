@@ -1,1 +1,0 @@
-OTP error modal appeared on attempt 1. Retrying confirm.
