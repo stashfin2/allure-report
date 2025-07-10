@@ -1,1 +1,1 @@
-{"reportName":"default","testRuns":[],"statistic":{"failed":15,"broken":34,"skipped":165,"passed":75,"unknown":0,"total":289},"time":{"start":1751481213773,"stop":1752162321174,"duration":681107401,"minDuration":0,"maxDuration":89246,"sumDuration":825201}}
+{"reportName":"Sanity Test Run by Bipin","testRuns":[],"statistic":{"failed":14,"broken":34,"skipped":165,"passed":76,"unknown":0,"total":289},"time":{"start":1751481213773,"stop":1752162873159,"duration":681659386,"minDuration":0,"maxDuration":89246,"sumDuration":847546}}
