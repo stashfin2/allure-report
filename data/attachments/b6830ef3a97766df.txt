@@ -1,2 +1,0 @@
-Timeout waiting for element: Locator@//input[@name='customerVpa' and @placeholder='Customer VPA']
-Object doesn't exist: response@6534724dd42df0626ee0b9fa4966dbe4
