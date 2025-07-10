@@ -1,0 +1,23 @@
+Error {
+  message='Error: strict mode violation: locator("div.modal-overlay") resolved to 2 elements:
+    1) <div class="modal-overlay ">…</div> aka locator("div").filter(new Locator.FilterOptions().setHasText(Pattern.compile("^UTM not provided\\.Close$"))).first()
+    2) <div class="modal-overlay ">…</div> aka locator("div").filter(new Locator.FilterOptions().setHasText(Pattern.compile("^Are you want to sure cancel your loan applicationYesNo$"))).first()
+
+  name='Error
+  stack='Error: Error: strict mode violation: locator("div.modal-overlay") resolved to 2 elements:
+    1) <div class="modal-overlay ">…</div> aka locator("div").filter(new Locator.FilterOptions().setHasText(Pattern.compile("^UTM not provided\\.Close$"))).first()
+    2) <div class="modal-overlay ">…</div> aka locator("div").filter(new Locator.FilterOptions().setHasText(Pattern.compile("^Are you want to sure cancel your loan applicationYesNo$"))).first()
+
+    at CRExecutionContext.evaluateWithArguments (/tmp/playwright-java-15318792248629599410/package/lib/server/chromium/crExecutionContext.js:79:13)
+    at async LongStandingScope._race (/tmp/playwright-java-15318792248629599410/package/lib/utils/isomorphic/manualPromise.js:95:14)
+    at async evaluateExpression (/tmp/playwright-java-15318792248629599410/package/lib/server/javascript.js:223:12)
+    at async Frame.isVisibleInternal (/tmp/playwright-java-15318792248629599410/package/lib/server/frames.js:1115:14)
+    at async /tmp/playwright-java-15318792248629599410/package/lib/server/frames.js:1107:14
+    at async ProgressController.run (/tmp/playwright-java-15318792248629599410/package/lib/server/progress.js:80:22)
+    at async FrameDispatcher.isVisible (/tmp/playwright-java-15318792248629599410/package/lib/server/dispatchers/frameDispatcher.js:171:21)
+    at async LongStandingScope._race (/tmp/playwright-java-15318792248629599410/package/lib/utils/isomorphic/manualPromise.js:95:14)
+    at async FrameDispatcher._handleCommand (/tmp/playwright-java-15318792248629599410/package/lib/server/dispatchers/dispatcher.js:96:14)
+    at async DispatcherConnection.dispatch (/tmp/playwright-java-15318792248629599410/package/lib/server/dispatchers/dispatcher.js:307:22)
+}
+Call log:
+-     - checking visibility of locator("div.modal-overlay")

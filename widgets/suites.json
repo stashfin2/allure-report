@@ -1,1 +1,1 @@
-{"total":1,"items":[{"uid":"940a09faf31371a51747026c9d178f0a","name":"Surefire suite","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}}]}
+{"total":1,"items":[{"uid":"5d5f6c48b48b894cba51178bb0daca5a","name":"Stashfin Web Automation Suite","statistic":{"failed":12,"broken":13,"skipped":182,"passed":49,"unknown":0,"total":256}}]}
