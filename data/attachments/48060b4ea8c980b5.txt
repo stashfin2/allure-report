@@ -1,0 +1,9 @@
+Error {
+  message='net::ERR_NETWORK_CHANGED at https://partner-staging.stashfin.com/loading?jwt_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTE0Mzc1NDEsImV4cCI6MTc1MTQzOTM0MSwiY3VzdG9tZXJfaWQiOiIxNzY5MjI4MjczIiwibmFtZSI6IkhUIE1lZGlhIn0.VN4g6DCxyUA6giQXDmhqjWDFuCqaHJkpcmVvtA7jTuk&secret=DFzPTDKtET9o1Z&utm_source=hindustan_live
+  name='Error
+  stack='Error: net::ERR_NETWORK_CHANGED at https://partner-staging.stashfin.com/loading?jwt_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTE0Mzc1NDEsImV4cCI6MTc1MTQzOTM0MSwiY3VzdG9tZXJfaWQiOiIxNzY5MjI4MjczIiwibmFtZSI6IkhUIE1lZGlhIn0.VN4g6DCxyUA6giQXDmhqjWDFuCqaHJkpcmVvtA7jTuk&secret=DFzPTDKtET9o1Z&utm_source=hindustan_live
+    at FrameSession._navigate (/private/var/folders/w6/57mby7d92xgbc8_lq6xsrrw00000gp/T/playwright-java-358261320630406518/package/lib/server/chromium/crPage.js:485:13)
+    at async Frame._gotoAction (/private/var/folders/w6/57mby7d92xgbc8_lq6xsrrw00000gp/T/playwright-java-358261320630406518/package/lib/server/frames.js:550:28)
+}
+Call log:
+-   - navigating to "https://partner-staging.stashfin.com/loading?jwt_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTE0Mzc1NDEsImV4cCI6MTc1MTQzOTM0MSwiY3VzdG9tZXJfaWQiOiIxNzY5MjI4MjczIiwibmFtZSI6IkhUIE1lZGlhIn0.VN4g6DCxyUA6giQXDmhqjWDFuCqaHJkpcmVvtA7jTuk&secret=DFzPTDKtET9o1Z&utm_source=hindustan_live", waiting until "load"

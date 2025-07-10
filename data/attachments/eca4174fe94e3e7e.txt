@@ -1,0 +1,1 @@
+Intentional failure to test screenshot capture

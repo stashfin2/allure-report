@@ -1,0 +1,12 @@
+Error {
+  message='Timeout 30000ms exceeded.
+  name='TimeoutError
+  stack='TimeoutError: Timeout 30000ms exceeded.
+    at ProgressController.run (/private/var/folders/w6/57mby7d92xgbc8_lq6xsrrw00000gp/T/playwright-java-4491421945174427984/package/lib/server/progress.js:76:26)
+    at Frame.click (/private/var/folders/w6/57mby7d92xgbc8_lq6xsrrw00000gp/T/playwright-java-4491421945174427984/package/lib/server/frames.js:991:23)
+    at FrameDispatcher.click (/private/var/folders/w6/57mby7d92xgbc8_lq6xsrrw00000gp/T/playwright-java-4491421945174427984/package/lib/server/dispatchers/frameDispatcher.js:117:30)
+    at FrameDispatcher._handleCommand (/private/var/folders/w6/57mby7d92xgbc8_lq6xsrrw00000gp/T/playwright-java-4491421945174427984/package/lib/server/dispatchers/dispatcher.js:94:40)
+    at DispatcherConnection.dispatch (/private/var/folders/w6/57mby7d92xgbc8_lq6xsrrw00000gp/T/playwright-java-4491421945174427984/package/lib/server/dispatchers/dispatcher.js:307:39)
+}
+Call log:
+-   - waiting for locator("//li[contains(.,'Ignosis Bank UAT')]")
