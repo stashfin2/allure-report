@@ -1,0 +1,35 @@
+Error {
+  message='Timeout 30000ms exceeded.
+  name='TimeoutError
+  stack='TimeoutError: Timeout 30000ms exceeded.
+    at ProgressController.run (/tmp/playwright-java-9424127470384048563/package/lib/server/progress.js:76:26)
+    at Frame.click (/tmp/playwright-java-9424127470384048563/package/lib/server/frames.js:991:23)
+    at FrameDispatcher.click (/tmp/playwright-java-9424127470384048563/package/lib/server/dispatchers/frameDispatcher.js:117:30)
+    at FrameDispatcher._handleCommand (/tmp/playwright-java-9424127470384048563/package/lib/server/dispatchers/dispatcher.js:94:40)
+    at DispatcherConnection.dispatch (/tmp/playwright-java-9424127470384048563/package/lib/server/dispatchers/dispatcher.js:307:39)
+}
+Call log:
+-   - waiting for locator("//button[@type='submit' and contains(text(),'Continue')]")
+-     - locator resolved to <button type="submit" class="btn btn-primary ">Continue</button>
+-   - attempting click action
+-     2 × waiting for element to be visible, enabled and stable
+-       - element is visible, enabled and stable
+-       - scrolling into view if needed
+-       - done scrolling
+-       - <svg width="44" height="44" fill="none" viewBox="0 0 44 44" xmlns="http://www.w3.org/2000/svg">…</svg> from <div class="modal-overlay ">…</div> subtree intercepts pointer events
+-     - retrying click action
+-     - waiting 20ms
+-     2 × waiting for element to be visible, enabled and stable
+-       - element is visible, enabled and stable
+-       - scrolling into view if needed
+-       - done scrolling
+-       - <svg width="44" height="44" fill="none" viewBox="0 0 44 44" xmlns="http://www.w3.org/2000/svg">…</svg> from <div class="modal-overlay ">…</div> subtree intercepts pointer events
+-     - retrying click action
+-       - waiting 100ms
+-     58 × waiting for element to be visible, enabled and stable
+-        - element is visible, enabled and stable
+-        - scrolling into view if needed
+-        - done scrolling
+-        - <svg width="44" height="44" fill="none" viewBox="0 0 44 44" xmlns="http://www.w3.org/2000/svg">…</svg> from <div class="modal-overlay ">…</div> subtree intercepts pointer events
+-      - retrying click action
+-        - waiting 500ms
