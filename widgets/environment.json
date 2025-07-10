@@ -1,1 +1,1 @@
-[]
+[{"values":["Chrome"],"name":"Browser"},{"values":["Latest"],"name":"Browser.Version"},{"values":["macOS"],"name":"Platform"},{"values":["17"],"name":"Java.Version"},{"values":["TestNG"],"name":"Test.Framework"},{"values":["Playwright"],"name":"Automation.Tool"},{"values":["Stashfin Web Automation"],"name":"Project.Name"},{"values":["QA"],"name":"Environment"},{"values":["https://stashfin.com "],"name":"Base.URL"}]

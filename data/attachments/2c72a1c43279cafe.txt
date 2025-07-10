@@ -1,0 +1,40 @@
+URL: https://devapi.stashfin.com/magneto/clevertap/send-event-from-web
+Status: 401 
+Body: (Could not fetch body: Error {
+  message='Protocol error (Network.getResponseBody): No resource with given identifier found
+  name='Error
+  stack='Error: Protocol error (Network.getResponseBody): No resource with given identifier found
+    at /private/var/folders/w6/57mby7d92xgbc8_lq6xsrrw00000gp/T/playwright-java-14204100504521625582/package/lib/server/chromium/crConnection.js:116:57
+    at new Promise (<anonymous>)
+    at CRSession.send (/private/var/folders/w6/57mby7d92xgbc8_lq6xsrrw00000gp/T...
+
+URL: https://devapi.stashfin.com/customers/v1/disbursal/bank-details?jwt_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTE0NDc4MDcsImV4cCI6MTc1MTQ0OTYwNywiY3VzdG9tZXJfaWQiOiIxNzY5MjI4MzUyIiwibmFtZSI6IkhUIE1lZGlhIn0.-9c0aMCY5osidi_EsEbDNq4hjg_htW6yAGcoqFBv1I4&secret=DFzPTDKtET9o1Z&utm_source=hindustan_live
+Status: 400 
+Body: (Could not fetch body: Error {
+  message='Protocol error (Network.getResponseBody): No resource with given identifier found
+  name='Error
+  stack='Error: Protocol error (Network.getResponseBody): No resource with given identifier found
+    at /private/var/folders/w6/57mby7d92xgbc8_lq6xsrrw00000gp/T/playwright-java-14204100504521625582/package/lib/server/chromium/crConnection.js:116:57
+    at new Promise (<anonymous>)
+    at CRSession.send (/private/var/folders/w6/57mby7d92xgbc8_lq6xsrrw00000gp/T...
+
+URL: https://devapi.stashfin.com/customers/v1/disbursal/bank-details?jwt_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTE0NDc4MDcsImV4cCI6MTc1MTQ0OTYwNywiY3VzdG9tZXJfaWQiOiIxNzY5MjI4MzUyIiwibmFtZSI6IkhUIE1lZGlhIn0.-9c0aMCY5osidi_EsEbDNq4hjg_htW6yAGcoqFBv1I4&secret=DFzPTDKtET9o1Z&utm_source=hindustan_live
+Status: 400 
+Body: (Could not fetch body: Error {
+  message='Protocol error (Network.getResponseBody): No resource with given identifier found
+  name='Error
+  stack='Error: Protocol error (Network.getResponseBody): No resource with given identifier found
+    at /private/var/folders/w6/57mby7d92xgbc8_lq6xsrrw00000gp/T/playwright-java-14204100504521625582/package/lib/server/chromium/crConnection.js:116:57
+    at new Promise (<anonymous>)
+    at CRSession.send (/private/var/folders/w6/57mby7d92xgbc8_lq6xsrrw00000gp/T...
+
+URL: https://devapi.stashfin.com/customers/v1/disbursal/bank-details?jwt_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTE0NDc4MDcsImV4cCI6MTc1MTQ0OTYwNywiY3VzdG9tZXJfaWQiOiIxNzY5MjI4MzUyIiwibmFtZSI6IkhUIE1lZGlhIn0.-9c0aMCY5osidi_EsEbDNq4hjg_htW6yAGcoqFBv1I4&secret=DFzPTDKtET9o1Z&utm_source=hindustan_live
+Status: 400 
+Body: (Could not fetch body: Error {
+  message='Protocol error (Network.getResponseBody): No resource with given identifier found
+  name='Error
+  stack='Error: Protocol error (Network.getResponseBody): No resource with given identifier found
+    at /private/var/folders/w6/57mby7d92xgbc8_lq6xsrrw00000gp/T/playwright-java-14204100504521625582/package/lib/server/chromium/crConnection.js:116:57
+    at new Promise (<anonymous>)
+    at CRSession.send (/private/var/folders/w6/57mby7d92xgbc8_lq6xsrrw00000gp/T...
+
