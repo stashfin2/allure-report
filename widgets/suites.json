@@ -1,1 +1,1 @@
-{"total":1,"items":[{"uid":"e01bba2c712eeb8b3f2ff6fc694f023c","name":"Single Test Suite","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}}]}
+{"total":1,"items":[{"uid":"5d5f6c48b48b894cba51178bb0daca5a","name":"Stashfin Web Automation Suite","statistic":{"failed":16,"broken":8,"skipped":174,"passed":57,"unknown":0,"total":255}}]}
