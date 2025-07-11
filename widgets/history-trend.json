@@ -1,1 +1,1 @@
-[{"data":{"failed":17,"broken":16,"skipped":184,"passed":39,"unknown":0,"total":256}}]
+[{"buildOrder":1,"reportUrl":"https://stashfin2.github.io/allure-report/","reportName":"Allure Report","data":{"failed":4,"broken":2,"skipped":61,"passed":4,"unknown":0,"total":71}}]
