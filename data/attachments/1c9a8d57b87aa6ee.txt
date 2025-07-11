@@ -1,4 +1,0 @@
-URL: https://devapi.stashfin.com/v2/api/get_partners_details?secret=DFzPTDKtET9o1Z&utm_source=hindustan_live
-Status: 594 Unknown
-Body: {"status":"error","error_id":null,"message":"Ooops! Something went wrong. Please try again or contact StashFin customer support"}
-
