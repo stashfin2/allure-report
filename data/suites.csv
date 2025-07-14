@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"Runs the full loan journey from start to finish with a fresh mobile number, validating all major checkpoints.","74670","Sanity: Complete Loan Journey in one go","Single Test Suite","Mon Jul 14 12:52:52 IST 2025","broken","Mon Jul 14 12:54:06 IST 2025","SanityTest.LoanJourneySanityTest","Single Test","SanityTest.LoanJourneySanityTest","testFullLoanJourneySanity"

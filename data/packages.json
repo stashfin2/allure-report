@@ -1,1 +1,1 @@
-{"uid":"83edc06c07f9ae9e47eb6dd1b683e4e2","name":"packages","children":[]}
+{"uid":"83edc06c07f9ae9e47eb6dd1b683e4e2","name":"packages","children":[{"name":"SanityTest.LoanJourneySanityTest","children":[{"name":"testFullLoanJourneySanity","uid":"1559773c5cf847c","parentUid":"b213767c0061fbd8ffd6268a35c54644","status":"broken","time":{"start":1752477772230,"stop":1752477846900,"duration":74670},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[],"tags":[]}],"uid":"SanityTest.LoanJourneySanityTest"}]}
