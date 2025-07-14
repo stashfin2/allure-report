@@ -1,0 +1,27 @@
+URL: https://devapi.stashfin.com/magneto/clevertap/send-event-from-web
+Status: 401 Unauthorized
+Body: (Could not fetch body: Error {
+  message='Target page, context or browser has been closed
+  name='TargetClosedError
+  stack='TargetClosedError: Target page, context or browser has been closed
+    at DispatcherConnection.dispatch (/private/var/folders/w6/57mby7d92xgbc8_lq6xsrrw00000gp/T/playwright-java-7095851006966296009/package/lib/server/dispatchers/dispatcher.js:244:69)
+    at transport.onmessage (/private/var/folders/w6/57mby7d92xgbc8_lq6xsrrw00000gp/T/playwright-java-7095851006966296009/pac...
+
+URL: https://devapi.stashfin.com/customers/v1/disbursal/bank-details?jwt_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTI0ODA5ODQsImV4cCI6MTc1MjQ4Mjc4NCwiY3VzdG9tZXJfaWQiOiIxNzY5MjMwMjE3IiwibmFtZSI6IkhUIE1lZGlhIn0.rdevVl3zSqgDMyAv3aZyU7MPfYane11zlSDCh5yyFFU&secret=DFzPTDKtET9o1Z&utm_source=hindustan_live
+Status: 400 Bad Request
+Body: (Could not fetch body: Error {
+  message='Target page, context or browser has been closed
+  name='TargetClosedError
+  stack='TargetClosedError: Target page, context or browser has been closed
+    at DispatcherConnection.dispatch (/private/var/folders/w6/57mby7d92xgbc8_lq6xsrrw00000gp/T/playwright-java-7095851006966296009/package/lib/server/dispatchers/dispatcher.js:244:69)
+    at transport.onmessage (/private/var/folders/w6/57mby7d92xgbc8_lq6xsrrw00000gp/T/playwright-java-7095851006966296009/pac...
+
+URL: https://devapi.stashfin.com/customers/v1/disbursal/bank-details?jwt_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTI0ODA5ODQsImV4cCI6MTc1MjQ4Mjc4NCwiY3VzdG9tZXJfaWQiOiIxNzY5MjMwMjE3IiwibmFtZSI6IkhUIE1lZGlhIn0.rdevVl3zSqgDMyAv3aZyU7MPfYane11zlSDCh5yyFFU&secret=DFzPTDKtET9o1Z&utm_source=hindustan_live
+Status: 400 Bad Request
+Body: (Could not fetch body: Error {
+  message='Target page, context or browser has been closed
+  name='TargetClosedError
+  stack='TargetClosedError: Target page, context or browser has been closed
+    at DispatcherConnection.dispatch (/private/var/folders/w6/57mby7d92xgbc8_lq6xsrrw00000gp/T/playwright-java-7095851006966296009/package/lib/server/dispatchers/dispatcher.js:244:69)
+    at transport.onmessage (/private/var/folders/w6/57mby7d92xgbc8_lq6xsrrw00000gp/T/playwright-java-7095851006966296009/pac...
+
