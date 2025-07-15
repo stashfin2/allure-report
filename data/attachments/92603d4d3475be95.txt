@@ -1,0 +1,30 @@
+URL: https://devapi.stashfin.com/magneto/clevertap/send-event-from-web
+Status: 401 Unauthorized
+Body: (Could not fetch body: Error {
+  message='Protocol error (Network.getResponseBody): No resource with given identifier found
+  name='Error
+  stack='Error: Protocol error (Network.getResponseBody): No resource with given identifier found
+    at /private/var/folders/w6/57mby7d92xgbc8_lq6xsrrw00000gp/T/playwright-java-13006416921156302117/package/lib/server/chromium/crConnection.js:116:57
+    at new Promise (<anonymous>)
+    at CRSession.send (/private/var/folders/w6/57mby7d92xgbc8_lq6xsrrw00000gp/T...
+
+URL: https://devapi.stashfin.com/customers/v1/disbursal/bank-details?jwt_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTI0OTUwMjQsImV4cCI6MTc1MjQ5NjgyNCwiY3VzdG9tZXJfaWQiOiIxNzY5MjMwMjY4IiwibmFtZSI6IkhUIE1lZGlhIn0.1iSqO0mOZd5e7od9IrLv_P0_99-8WqH4WsvDUU5VAJ8&secret=DFzPTDKtET9o1Z&utm_source=hindustan_live
+Status: 400 Bad Request
+Body: (Could not fetch body: Error {
+  message='Protocol error (Network.getResponseBody): No resource with given identifier found
+  name='Error
+  stack='Error: Protocol error (Network.getResponseBody): No resource with given identifier found
+    at /private/var/folders/w6/57mby7d92xgbc8_lq6xsrrw00000gp/T/playwright-java-13006416921156302117/package/lib/server/chromium/crConnection.js:116:57
+    at new Promise (<anonymous>)
+    at CRSession.send (/private/var/folders/w6/57mby7d92xgbc8_lq6xsrrw00000gp/T...
+
+URL: https://devapi.stashfin.com/customers/v1/disbursal/bank-details?jwt_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTI0OTUwMjQsImV4cCI6MTc1MjQ5NjgyNCwiY3VzdG9tZXJfaWQiOiIxNzY5MjMwMjY4IiwibmFtZSI6IkhUIE1lZGlhIn0.1iSqO0mOZd5e7od9IrLv_P0_99-8WqH4WsvDUU5VAJ8&secret=DFzPTDKtET9o1Z&utm_source=hindustan_live
+Status: 400 Bad Request
+Body: (Could not fetch body: Error {
+  message='Protocol error (Network.getResponseBody): No resource with given identifier found
+  name='Error
+  stack='Error: Protocol error (Network.getResponseBody): No resource with given identifier found
+    at /private/var/folders/w6/57mby7d92xgbc8_lq6xsrrw00000gp/T/playwright-java-13006416921156302117/package/lib/server/chromium/crConnection.js:116:57
+    at new Promise (<anonymous>)
+    at CRSession.send (/private/var/folders/w6/57mby7d92xgbc8_lq6xsrrw00000gp/T...
+

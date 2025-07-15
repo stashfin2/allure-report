@@ -1,0 +1,45 @@
+URL: https://devapi.stashfin.com/magneto/clevertap/send-event-from-web
+Status: 401 Unauthorized
+Body: (Could not fetch body: Error {
+  message='Target page, context or browser has been closed
+  name='TargetClosedError
+  stack='TargetClosedError: Target page, context or browser has been closed
+    at DispatcherConnection.dispatch (/private/var/folders/w6/57mby7d92xgbc8_lq6xsrrw00000gp/T/playwright-java-12158622087681287873/package/lib/server/dispatchers/dispatcher.js:244:69)
+    at transport.onmessage (/private/var/folders/w6/57mby7d92xgbc8_lq6xsrrw00000gp/T/playwright-java-12158622087681287873/p...
+
+URL: https://devapi.stashfin.com/customers/v1/disbursal/bank-details?jwt_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTI1NDMyNTgsImV4cCI6MTc1MjU0NTA1OCwiY3VzdG9tZXJfaWQiOiIxNzY5MjMwMjk0IiwibmFtZSI6IkhUIE1lZGlhIn0.FWZbl8PvOovgZFRspyXe5Tj28q5wKgTVTPP9r9z2uCw&secret=DFzPTDKtET9o1Z&utm_source=hindustan_live
+Status: 400 Bad Request
+Body: (Could not fetch body: Error {
+  message='Target page, context or browser has been closed
+  name='TargetClosedError
+  stack='TargetClosedError: Target page, context or browser has been closed
+    at DispatcherConnection.dispatch (/private/var/folders/w6/57mby7d92xgbc8_lq6xsrrw00000gp/T/playwright-java-12158622087681287873/package/lib/server/dispatchers/dispatcher.js:244:69)
+    at transport.onmessage (/private/var/folders/w6/57mby7d92xgbc8_lq6xsrrw00000gp/T/playwright-java-12158622087681287873/p...
+
+URL: https://devapi.stashfin.com/customers/v1/disbursal/bank-details?jwt_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTI1NDMyNTgsImV4cCI6MTc1MjU0NTA1OCwiY3VzdG9tZXJfaWQiOiIxNzY5MjMwMjk0IiwibmFtZSI6IkhUIE1lZGlhIn0.FWZbl8PvOovgZFRspyXe5Tj28q5wKgTVTPP9r9z2uCw&secret=DFzPTDKtET9o1Z&utm_source=hindustan_live
+Status: 400 Bad Request
+Body: (Could not fetch body: Error {
+  message='Target page, context or browser has been closed
+  name='TargetClosedError
+  stack='TargetClosedError: Target page, context or browser has been closed
+    at DispatcherConnection.dispatch (/private/var/folders/w6/57mby7d92xgbc8_lq6xsrrw00000gp/T/playwright-java-12158622087681287873/package/lib/server/dispatchers/dispatcher.js:244:69)
+    at transport.onmessage (/private/var/folders/w6/57mby7d92xgbc8_lq6xsrrw00000gp/T/playwright-java-12158622087681287873/p...
+
+URL: https://ext.digio.in:444/v3/upi/mandate/form/ENA250715070420996E4EM6J3DV4ESOUP?include_upi_urls=true
+Status: 403 
+Body: (Could not fetch body: Error {
+  message='Target page, context or browser has been closed
+  name='TargetClosedError
+  stack='TargetClosedError: Target page, context or browser has been closed
+    at DispatcherConnection.dispatch (/private/var/folders/w6/57mby7d92xgbc8_lq6xsrrw00000gp/T/playwright-java-12158622087681287873/package/lib/server/dispatchers/dispatcher.js:244:69)
+    at transport.onmessage (/private/var/folders/w6/57mby7d92xgbc8_lq6xsrrw00000gp/T/playwright-java-12158622087681287873/p...
+
+URL: https://ext.digio.in:444/v3/upi/mandate/form/ENA250715070420996E4EM6J3DV4ESOUP?include_upi_urls=true
+Status: 403 
+Body: (Could not fetch body: Error {
+  message='Target page, context or browser has been closed
+  name='TargetClosedError
+  stack='TargetClosedError: Target page, context or browser has been closed
+    at DispatcherConnection.dispatch (/private/var/folders/w6/57mby7d92xgbc8_lq6xsrrw00000gp/T/playwright-java-12158622087681287873/package/lib/server/dispatchers/dispatcher.js:244:69)
+    at transport.onmessage (/private/var/folders/w6/57mby7d92xgbc8_lq6xsrrw00000gp/T/playwright-java-12158622087681287873/p...
+
