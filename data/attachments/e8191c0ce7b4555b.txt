@@ -1,0 +1,1 @@
+[2025-07-16 12:33:18] UPI Auto-Pay Configuration: Customer configured UPI auto-pay for loan repayment

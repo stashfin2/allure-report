@@ -1,3 +1,0 @@
-Mobile: 7482004905
-Name: Test Customer
-Employment: Self-Employed
