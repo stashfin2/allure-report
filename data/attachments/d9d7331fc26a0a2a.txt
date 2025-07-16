@@ -1,0 +1,10 @@
+==================================================
+TEST EXECUTION SUMMARY
+==================================================
+Timestamp: 2025-07-16 10:27:10
+Test Name: Complete Loan Application Journey
+Status: FAILED
+Duration: 87.35 seconds
+Customer Mobile: 7401971573
+Journey Steps: Process failed during execution
+==================================================
