@@ -1,0 +1,4 @@
+URL: https://devapi.stashfin.com/magneto/clevertap/send-event-from-web
+Status: 401 Unauthorized
+Body: {"success":false,"data":null,"error_message":"error parsing token: token contains an invalid number of segments"}
+
