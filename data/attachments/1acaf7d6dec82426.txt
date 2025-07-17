@@ -1,3 +1,0 @@
-Mobile: 8276138363
-Name: Test Customer
-Employment: Self-Employed
