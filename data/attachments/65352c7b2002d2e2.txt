@@ -1,0 +1,20 @@
+URL: https://devapi.stashfin.com/customers/v1/disbursal/bank-details?jwt_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTMzMzMzNzQsImV4cCI6MTc1MzMzNTE3NCwiY3VzdG9tZXJfaWQiOiIxNzY5MjMxNTA2IiwibmFtZSI6IkhUIE1lZGlhIn0.XJ5xfNS9qAZ-K1wtORZBYyom2m3MrxN3u0DXWkWm8ws&secret=DFzPTDKtET9o1Z&utm_source=hindustan_live
+Status: 400 Bad Request
+Body: (Could not fetch body: Error {
+  message='Protocol error (Network.getResponseBody): No resource with given identifier found
+  name='Error
+  stack='Error: Protocol error (Network.getResponseBody): No resource with given identifier found
+    at /private/var/folders/w6/57mby7d92xgbc8_lq6xsrrw00000gp/T/playwright-java-10816773830256998229/package/lib/server/chromium/crConnection.js:116:57
+    at new Promise (<anonymous>)
+    at CRSession.send (/private/var/folders/w6/57mby7d92xgbc8_lq6xsrrw00000gp/T...
+
+URL: https://devapi.stashfin.com/customers/v1/disbursal/bank-details?jwt_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTMzMzMzNzQsImV4cCI6MTc1MzMzNTE3NCwiY3VzdG9tZXJfaWQiOiIxNzY5MjMxNTA2IiwibmFtZSI6IkhUIE1lZGlhIn0.XJ5xfNS9qAZ-K1wtORZBYyom2m3MrxN3u0DXWkWm8ws&secret=DFzPTDKtET9o1Z&utm_source=hindustan_live
+Status: 400 Bad Request
+Body: (Could not fetch body: Error {
+  message='Protocol error (Network.getResponseBody): No resource with given identifier found
+  name='Error
+  stack='Error: Protocol error (Network.getResponseBody): No resource with given identifier found
+    at /private/var/folders/w6/57mby7d92xgbc8_lq6xsrrw00000gp/T/playwright-java-10816773830256998229/package/lib/server/chromium/crConnection.js:116:57
+    at new Promise (<anonymous>)
+    at CRSession.send (/private/var/folders/w6/57mby7d92xgbc8_lq6xsrrw00000gp/T...
+

@@ -1,0 +1,28 @@
+URL: https://devapi.stashfin.com/customers/v1/disbursal/bank-details?jwt_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTMyNTczMTIsImV4cCI6MTc1MzI1OTExMiwiY3VzdG9tZXJfaWQiOiIxNzY5MjMxNDExIiwibmFtZSI6IkhUIE1lZGlhIn0.kSb1ApkQAJlXjZtoGeVqnbgcLs4s9wWFMGVvrdIZLok&secret=DFzPTDKtET9o1Z&utm_source=hindustan_live
+Status: 400 Bad Request
+Body: (Could not fetch body: Error {
+  message='Protocol error (Network.getResponseBody): No resource with given identifier found
+  name='Error
+  stack='Error: Protocol error (Network.getResponseBody): No resource with given identifier found
+    at /private/var/folders/w6/57mby7d92xgbc8_lq6xsrrw00000gp/T/playwright-java-16946784821479061331/package/lib/server/chromium/crConnection.js:116:57
+    at new Promise (<anonymous>)
+    at CRSession.send (/private/var/folders/w6/57mby7d92xgbc8_lq6xsrrw00000gp/T...
+
+URL: https://devapi.stashfin.com/customers/v1/disbursal/bank-details?jwt_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTMyNTczMTIsImV4cCI6MTc1MzI1OTExMiwiY3VzdG9tZXJfaWQiOiIxNzY5MjMxNDExIiwibmFtZSI6IkhUIE1lZGlhIn0.kSb1ApkQAJlXjZtoGeVqnbgcLs4s9wWFMGVvrdIZLok&secret=DFzPTDKtET9o1Z&utm_source=hindustan_live
+Status: 400 Bad Request
+Body: (Could not fetch body: Error {
+  message='Protocol error (Network.getResponseBody): No resource with given identifier found
+  name='Error
+  stack='Error: Protocol error (Network.getResponseBody): No resource with given identifier found
+    at /private/var/folders/w6/57mby7d92xgbc8_lq6xsrrw00000gp/T/playwright-java-16946784821479061331/package/lib/server/chromium/crConnection.js:116:57
+    at new Promise (<anonymous>)
+    at CRSession.send (/private/var/folders/w6/57mby7d92xgbc8_lq6xsrrw00000gp/T...
+
+URL: https://devapi.stashfin.com/customers/v1/disbursal/bank-details?jwt_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTMyNTczMzgsImV4cCI6MTc1MzI1OTEzOCwiY3VzdG9tZXJfaWQiOiIxNzY5MjMxNDExIiwibmFtZSI6IkhUIE1lZGlhIn0.vwK_9mQMYa0nAgdFOn2tRswbwWNa50vDClVWEN96frs&secret=DFzPTDKtET9o1Z&utm_source=hindustan_live
+Status: 400 Bad Request
+Body: {"error":"Incomplete bank details: bank name is missing."}
+
+URL: https://devapi.stashfin.com/customers/v1/disbursal/bank-details?jwt_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTMyNTczMzgsImV4cCI6MTc1MzI1OTEzOCwiY3VzdG9tZXJfaWQiOiIxNzY5MjMxNDExIiwibmFtZSI6IkhUIE1lZGlhIn0.vwK_9mQMYa0nAgdFOn2tRswbwWNa50vDClVWEN96frs&secret=DFzPTDKtET9o1Z&utm_source=hindustan_live
+Status: 400 Bad Request
+Body: {"error":"Incomplete bank details: bank name is missing."}
+
