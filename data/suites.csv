@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"Runs the full loan journey from start to finish with a fresh mobile number, validating all major checkpoints.","95664","Sanity: Complete Loan Journey in one go","Surefire suite","Thu Jul 31 12:42:50 IST 2025","broken","Thu Jul 31 12:44:25 IST 2025","SanityTest.LoanJourneySanityTest","Surefire test","SanityTest.LoanJourneySanityTest","testFullLoanJourneySanity"
