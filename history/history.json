@@ -1,1 +1,1 @@
-{"38259e1d28c0c2d83551dfe29edd5570":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"f26c88e342f7d326","status":"passed","time":{"start":1753977751217,"stop":1753977833918,"duration":82701}}]}}
+{"38259e1d28c0c2d83551dfe29edd5570":{"statistic":{"failed":1,"broken":0,"skipped":0,"passed":0,"unknown":0,"total":1},"items":[{"uid":"5064505a0090f4df","status":"failed","statusDetails":"Skip Button on Business Detail Page is not visible.","time":{"start":1753988558078,"stop":1753988586214,"duration":28136}}]}}
